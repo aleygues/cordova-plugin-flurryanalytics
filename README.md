@@ -7,14 +7,9 @@ This plugin was heavily inspired by https://github.com/jfpsf/flurry-phonegap-plu
 
 If you're like me and using [Cordova CLI](http://cordova.apache.org/):
 ```
-cordova plugin add cordova-plugin-flurryanalytics
+cordova plugin add cordova-plugin-flurryanalytics2
 ```
 
-or
-
-```
-phonegap local plugin add cordova-plugin-flurryanalytics
-```
 
 TODO: add manual installation steps
 
